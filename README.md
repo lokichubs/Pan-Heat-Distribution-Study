@@ -24,6 +24,6 @@ These results indicated significantly more consistent and predictable heating ch
 
 Check these links out for more details:
 
-[Project Report](documentation/ME_315_Final_Report_Team_50-5.pdf)
-[Data Collection](data_analysis/data)
+[Project Report](documentation/ME_315_Final_Report_Team_50-5.pdf)<br>
+[Data Collection](data_analysis/data)<br>
 [Data Analysis](data_analysis/dataAnalysis.ipynb)

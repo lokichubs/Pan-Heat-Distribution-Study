@@ -8,7 +8,7 @@ This research investigated the thermal performance characteristics of stainless-
 ![Modelling Setup](assets/Control_Volume.png)
 
 ## Infrared Camera Captures for Core and Non-Core Pan
-![Infrared-Cam Data for Non_Core Pan](assets/non_copper_core.png.png)
+![Infrared-Cam Data for Non_Core Pan](assets/non_copper_core.png)
 ![Infrared-Cam Data for Core Pan](assets/copper_core.png)
 
 ## Analytical Results and Conclusion
@@ -22,4 +22,8 @@ The copper core pan showcased 29% enhancement in heat distribution uniformity, w
 
 These results indicated significantly more consistent and predictable heating characteristics, with analytical modeling showing substantially lower percentage errors compared to the non-core pan. 
 
+Check these links out for more details:
 
+[Project Report](documentation/ME_315_Final_Report_Team_50-5.pdf)
+[Data Collection](data_analysis/data)
+[Data Analysis](data_analysis/dataAnalysis.ipynb)
